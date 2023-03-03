@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[691],{7200:function(e,t,a){a.r(t),t.default=function(){return React.createElement("head",null,"Hello React!")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-c16625990977100d60cf.js.map
